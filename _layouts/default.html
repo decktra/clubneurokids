@@ -63,11 +63,11 @@
               </div>
             </div>
             <div class="col-sm-4 col-md-6">
-              <div class="sosmed-icon pull-right d-inline-flex">
-                <a href="index.html#" class="fb"><i class="fab fa-facebook"></i></a> 
-                <a href="index.html#" class="tw"><i class="fab fa-twitter"></i></a> 
-                <a href="index.html#" class="ig"><i class="fab fa-instagram"></i></a> 
-                <a href="index.html#" class="in"><i class="fab fa-linkedin"></i></a> 
+              <div class="sosmed-icon d-flex justify-content-end">
+                <a href="index.html#" class="fb"><i class="fa fa-facebook"></i></a> 
+                <a href="index.html#" class="tw"><i class="fa fa-twitter"></i></a> 
+                <a href="index.html#" class="ig"><i class="fa fa-instagram"></i></a> 
+                <a href="index.html#" class="in"><i class="fa fa-linkedin"></i></a> 
               </div>
             </div>
           </div>
@@ -79,43 +79,22 @@
         <div class="container">
             <nav id="navbar-example" class="navbar navbar-expand-lg">
                 <a class="navbar-brand" href="index.html">
-              <img src="{{ "/assets/images/logo.png" }}" alt="">
+              <img src='{{ "/assets/images/logo.png" }}' style="width: 250px;" alt="logo">
             </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul class="navbar-nav ml-auto">
+                      <li class="nav-item">
+                            <a class="nav-link" href="index.html">INICIO</a>
+                        </li>
+                      <li class="nav-item">
+                            <a class="nav-link" href="servicios.html">SERVICIOS</a>
+                        </li>
                       <li class="nav-item active">
-                            <a class="nav-link" href="index.html">HOME</a>
+                            <a class="nav-link" href="#">SESIÓN GRATUITA</a>
                         </li>
-                      <li class="nav-item">
-                            <a class="nav-link" href="about.html">ABOUT US</a>
-                        </li>
-                      <li class="nav-item">
-                            <a class="nav-link" href="classes.html">CLASSES</a>
-                        </li>
-                      <li class="nav-item">
-                            <a class="nav-link" href="teachers.html">TEACHERS</a>
-                        </li>
-                      <li class="nav-item dropdown dmenu">
-                            <a class="nav-link dropdown-toggle" href="index.html#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        PAGES
-                      </a>
-                      <div class="dropdown-menu">
-                        <a class="dropdown-item" href="page-gallery.html">GALLERY</a>
-                        <a class="dropdown-item" href="page-testimonials.html">TESTIMONIALS</a>
-                        <a class="dropdown-item" href="page-faq.html">FAQ</a>
-                        <a class="dropdown-item" href="page-404.html">404 PAGE</a>
-                        <a class="dropdown-item" href="page-events.html">EVENTS</a>
-                        <a class="dropdown-item" href="page-events-single.html">SINGLE EVENTS</a>
-                        <a class="dropdown-item" href="page-news.html">NEWS</a>
-                        <a class="dropdown-item" href="page-news-single.html">SINGLE NEWS</a>
-                      </div>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="contact.html">CONTACT US</a>
-                    </li>
                   </ul>
                 </div>
             </nav> <!-- -->
@@ -127,21 +106,12 @@
     {{ content}}
 
     <!-- FOOTER SECTION -->
-    <div class="footer" data-background="images/bg.jpg">
-      <div class="content-wrap">
+    <div class="footer">
+      <div class="mb-3">
         <div class="container">
           
           <div class="row">
-            <div class="col-sm-12 col-md-6 col-lg-3">
-              <div class="footer-item">
-                <img src="images/logo.png" alt="logo bottom" class="logo-bottom">
-                <div class="spacer-30"></div>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy.</p>
-                <a href="index.html#"><i class="fa fa-angle-right"></i> Read More</a>
-              </div>
-            </div>					
-
-            <div class="col-sm-12 col-md-6 col-lg-3">
+            <div class="col-sm-12 col-md-8">
               <div class="footer-item">
                 <div class="footer-title">
                   Contact Info
@@ -175,29 +145,12 @@
               </div>
             </div>
 
-            <div class="col-sm-12 col-md-6 col-lg-3">
-              <div class="footer-item">
-                <div class="footer-title">
-                  Useful Links
-                </div>
-                
-                <ul class="list">
-                  <li><a href="about.html" title="About us">About us</a></li>
-                  <li><a href="teachers.html" title="Our Teacher">Our Teacher</a></li>
-                  <li><a href="classes.html" title="Our Classes">Our Classes</a></li>
-                  <li><a href="page-events.html" title="Our Events">Our Events</a></li>
-                  <li><a href="contact.html" title="Contact Us">Contact Us</a></li>
-                </ul>
-                  
-              </div>
-            </div>
-            
-            <div class="col-sm-12 col-md-6 col-lg-3">
+            <div class="col-sm-12 col-md-4">
               <div class="footer-item">
                 <div class="footer-title">
                   Get in Touch
                 </div>
-                <p>Lit sed The Best in dolor sit amet consectetur adipisicing elit sedconsectetur adipisicing</p>
+                <p>Síguenos en nuestras redes sociales</p>
                 <div class="sosmed-icon d-inline-flex">
                   <a href="index.html#" class="fb"><i class="fa fa-facebook"></i></a> 
                   <a href="index.html#" class="tw"><i class="fa fa-twitter"></i></a> 
@@ -214,7 +167,7 @@
         <div class="container">
           <div class="row">
             <div class="col-sm-12 col-md-12">
-              <p class="ftex">Copyright 2019 &copy; <span class="color-primary">Kids HTML Template</span>. Designed by <span class="color-primary">Rometheme.</span></p> 
+              <p class="ftex">Copyright 2020 &copy; <span class="color-primary">Club NeuroKids</span>. Hecho por <span class="color-primary">Decktra</span></p> 
             </div>
           </div>
         </div>
