@@ -1,4 +1,4 @@
-I"÷<!-- HEADER -->
+I"€<!-- HEADER -->
 <div class="section banner-page" data-background="images/banner-single.jpg">
   <div class="content-wrap pos-relative">
     <div class="d-flex justify-content-center bd-highlight mb-3">
@@ -10,7 +10,7 @@
 <div class="section">
   <div class="content-wrap pb-0">
     <div class="container">
-      <div class="row align-items-end">
+      <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-7">
           <p class="supheading">Servicios</p>
           <h2 class="section-heading mb-5">
@@ -23,8 +23,8 @@
           <p class="p-check ">Ofrecer herramientas para crear horarios, h√°bitos y rutinas, con las cuales tanto el ni√±x como la familia puedan verse beneficiados en su desempe√±o general.</p>
           <div class="spacer-content"></div>
         </div>
-        <div class="col-sm-12 col-md-12 col-lg-5">
-          <img src="/assets/images/teacher_promo.png" alt="" class="img-fluid" />
+        <div class="col-sm-12 col-md-12 col-lg-5 d-flex align-items-center">
+          <img src="/assets/images/servicios.jpg" alt="" class="img-fluid" />
         </div>
       </div>
       
@@ -37,7 +37,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-6">
-          <img src="/assets/images/homeslide2.jpg" alt="" class="img-fluid img-border mb-3" />
+          <img src="/assets/images/reflexion.jpg" alt="" class="img-fluid img-border mb-3" />
         </div>
         <div class="col-sm-12 col-md-12 col-lg-6">
           <h2 class="section-heading">
