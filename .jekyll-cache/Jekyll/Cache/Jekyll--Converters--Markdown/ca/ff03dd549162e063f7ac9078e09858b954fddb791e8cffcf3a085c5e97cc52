@@ -1,0 +1,61 @@
+I"<!-- HEADER -->
+<div class="section banner-page" data-background="images/banner-single.jpg">
+  <div class="content-wrap pos-relative">
+    <div class="d-flex justify-content-center bd-highlight mb-3">
+      <div class="title-page">¿Cómo podemos ayudarte?</div>
+    </div>
+  </div>
+</div>
+<div class="section">
+  <div class="content-wrap">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-4 col-lg-2">
+          <img src="/assets/images/welcome.jpg" alt="" class="img-fluid img-border mb-3" />
+        </div>
+        <div class="col-sm-12 col-md-8 col-lg-10">
+          <h2 class="section-heading">
+            Si se Planea, Sucede
+          </h2>
+          <p>Hoy tienes tiempo para ti, tiempo para disfrutar del aroma de un rico café, o ese té, para chafardear en las redes sociales, leer unas páginas de ese libro que tanto te gusta, hacer esa actividad que te hace sentir bien y vibrar de alegría, con la satisfacción de que has ayudado a tu hijx a gestionar mejor sus emociones, a conectar más con él, disfrutar de jugar y aprender en familia. cosas para redes.</p>
+          <p>Dejando a un lado el agobio cada mañana, de sentirte frustrada por no tener suficientes estrategias para ayudar a tu hijo a que este tranquilo, organizado, atento y aprendiendo.</p>
+          <div class="spacer-30"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12 col-md-4 col-lg-2">
+          <img src="/assets/images/welcome.jpg" alt="" class="img-fluid img-border mb-3" />
+        </div>
+        <div class="col-sm-12 col-md-8 col-lg-10">
+          <h2 class="section-heading">
+            Si se Planea, Sucede
+          </h2>
+          <p>Hoy tienes tiempo para ti, tiempo para disfrutar del aroma de un rico café, o ese té, para chafardear en las redes sociales, leer unas páginas de ese libro que tanto te gusta, hacer esa actividad que te hace sentir bien y vibrar de alegría, con la satisfacción de que has ayudado a tu hijx a gestionar mejor sus emociones, a conectar más con él, disfrutar de jugar y aprender en familia. cosas para redes.</p>
+          <p>Dejando a un lado el agobio cada mañana, de sentirte frustrada por no tener suficientes estrategias para ayudar a tu hijo a que este tranquilo, organizado, atento y aprendiendo.</p>
+          <div class="spacer-30"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- CTA -->
+<div class="section bg-tertiary">
+  <div class="content-wrap py-5">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-sm-12 col-md-12">
+          <div class="cta-1">
+              <div class="body-text mb-3">
+                <h3 class="my-1 text-secondary">¿Quieres probar una sesión gratuita?</h3>
+                <p class="uk18 mb-0 text-white"> Quiero mi sesión gratuita</p>
+              </div>
+              <div class="body-action">
+                <a href="#" class="btn btn-primary mt-3">RESERVAR</a>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+:ET
