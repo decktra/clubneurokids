@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Club Neurokids"
+header: "¿Cómo podemos ayudarte?"
 ---
 
 {% include header.html %}
