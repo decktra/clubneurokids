@@ -1,4 +1,4 @@
-I"�<!-- HEADER -->
+I"�<!-- HEADER -->
 <div class="section banner-page" data-background="images/banner-single.jpg">
   <div class="content-wrap pos-relative">
     <div class="d-flex justify-content-center bd-highlight mb-3">
@@ -61,10 +61,9 @@
           <div class="cta-1">
               <div class="body-text mb-3">
                 <h3 class="my-1 text-secondary">¿Quieres probar una sesión gratuita?</h3>
-                <p class="uk18 mb-0 text-white"> Quiero mi sesión gratuita</p>
               </div>
               <div class="body-action">
-                <a href="#" class="btn btn-primary mt-3">RESERVAR</a>
+                <a href="#" class="btn btn-primary mt-3">Quiero mi sesión gratuita</a>
               </div>
           </div>
         </div>

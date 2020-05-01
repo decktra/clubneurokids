@@ -437,7 +437,7 @@ button,
 input,
 select,
 textarea {
-  color: #999999;
+  color: #555555;
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
   font-size: 15px;
@@ -486,7 +486,7 @@ h3 {
   line-height: normal; }
 
 h4, .rs-team-1 .title {
-  font-size: 1.286em;
+  font-size: 1.7em;
   line-height: normal; }
 
 h5 {
