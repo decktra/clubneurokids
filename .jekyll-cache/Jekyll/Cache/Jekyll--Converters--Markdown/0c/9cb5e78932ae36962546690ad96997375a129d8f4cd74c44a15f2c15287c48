@@ -1,4 +1,4 @@
-I"k<!-- BANNER -->
+I"h<!-- BANNER -->
 <div id="oc-fullslider" class="banner">
   <div class="owl-carousel owl-theme full-screen">
     <div class="item">
@@ -97,9 +97,7 @@
           <h2 class="section-heading mb-5">
             ¡Entonces, esto es contigo!
           </h2>
-          <p>Programa CLUB NEUROKIDS, un servicio de terapia ocupacional de atención online, dirigido a familias de niñxs con autismo, déficit de atención y dificultades del desarrollo, destinado a mejorar la calidad de vida y participación de sus hijxs, por medio de asesoría, consultoría y apoyo desde el coaching.</p>
-          <p>CLUB NEUROKIDS: es un programa de terapia ocupacional de atención online, sistemático, fácil, divertido y responsable, basado en la neurociencia, terapia de juego, estimulación sensorial, estimulación psicomotora, gestión de las emociones, creatividad y coaching.</p>
-          <p>Este programa, le permitirá a la familia desde un acompañamiento terapéutico: explorar y disfrutar del conocimiento de manera divertida, adquiriendo y generando estrategias que mejorarán la atención, concentración, memoria, comportamiento, habilidades y destrezas de sus hijxs, en ambientes cotidianos.</p>
+          <p>Programa CLUB NEUROKIDS, un servicio de terapia ocupacional de atención online, dirigido a familias de niñxs con autismo, déficit de atención, dificultades del desarrollo y problemas en establecer rutinas, destinado a mejorar la calidad de vida y participación de sus hijxs, por medio de asesoría, consultoría y apoyo desde el coaching.</p>
           <div class="spacer-content"></div>
         </div>
         <div class="col-sm-12 col-md-12 col-lg-5 d-flex align-items-center">
@@ -122,8 +120,10 @@
           <h2 class="section-heading">
             Si se Planea, Sucede
           </h2>
-          <p>Hoy tienes tiempo para ti, tiempo para disfrutar del aroma de un rico café, o ese té, para chafardear en las redes sociales, leer unas páginas de ese libro que tanto te gusta, hacer esa actividad que te hace sentir bien y vibrar de alegría, con la satisfacción de que has ayudado a tu hijx a gestionar mejor sus emociones, a conectar más con él, disfrutar de jugar y aprender en familia. cosas para redes.</p>
-          <p>Dejando a un lado el agobio cada mañana, de sentirte frustrada por no tener suficientes estrategias para ayudar a tu hijo a que este tranquilo, organizado, atento y aprendiendo.</p>
+          <p>Imagina por un instante que cada mañana despiertas con calma, con seguridad y con más estrategias que te permiten gestionar mejor los desafíos que se te presentarán durante el día con tu hijx. </p>
+          <p>¿Lo imaginas? Entonces, este programa es para ti.</p> 
+          <p>Si estás aquí, es porque sabes que necesitas ampliar tu repertorio de ideas y estrategias que ayuden en la evolución de tu hijx, volver a sentirte confiadx en tu potencial como padre y como madre, teniendo la seguridad de que vas por buen camino.  Sí puedes. Juntxs podemos crearlo.</p>
+          <p>¿Cuánto más vas a esperar a invertir en algo tan importante para ti y tu familia?</p>
           <div class="spacer-30"></div>
         </div>
       </div>
@@ -138,7 +138,7 @@
         <div class="col-sm-12 col-md-12">
           <div class="cta-1">
               <div class="body-text mb-3">
-                <h3 class="my-1 text-secondary">¿Quieres probar una sesión gratuita?</h3>
+                <h2 class="my-1 text-secondary">¿Quieres probar una sesión gratuita?</h2>
               </div>
               <div class="body-action">
                 <a href="#" class="btn btn-primary mt-3">Quiero mi sesión gratuita</a>
