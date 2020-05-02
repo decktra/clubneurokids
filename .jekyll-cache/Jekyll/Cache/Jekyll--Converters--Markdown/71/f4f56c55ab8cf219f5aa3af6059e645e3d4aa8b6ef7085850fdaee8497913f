@@ -1,4 +1,12 @@
-I"@?<!-- FAQS -->
+I"�?<!-- HEADER -->
+<div class="section banner-page">
+  <div class="content-wrap pos-relative">
+    <div class="d-flex justify-content-center bd-highlight mb-3">
+      <div class="title-page">Preguntas Frecuentes</div>
+    </div>
+  </div>
+</div>
+<!-- FAQS -->
 <div class="section">
   <div class="content-wrap">
     <div class="container">
@@ -11,10 +19,6 @@
           <div class="row">
             
             <div class="col-sm-12 col-md-12">
-              <h2 class="section-heading text-primary no-after mb-5">
-                Preguntas Frecuentes
-              </h2>
-
               <div class="accordion rs-accordion" id="accordionExample">
                   <!-- Item 1 -->
                   <div class="card">
@@ -256,7 +260,7 @@ También ofrecemos servicio de atención a domicilio
                 <h2 class="my-1 text-secondary">¿Quieres probar una sesión gratuita?</h2>
               </div>
               <div class="body-action">
-                <a href="#" class="btn btn-primary mt-3">Quiero mi sesión gratuita</a>
+                <a href="#" class="btn btn-primary mt-3">QUIERO MI SESIÓN GRATUITA</a>
               </div>
           </div>
         </div>
