@@ -509,6 +509,9 @@ ul {
     margin: 8px 0; }
 
 /* CUSTOM GLOBAL */
+.fa-4x {
+  color:#6dc42e;
+}
 .content-wrap {
   padding: 80px 0; }
 
@@ -2035,6 +2038,7 @@ BLOG
       -webkit-transition: all ease .25s;
       transition: all ease .25s; }
   .rs-news-1 .body-box {
+    min-height: 400px;
     position: relative;
     padding: 10px 20px; }
     .rs-news-1 .body-box .title a {

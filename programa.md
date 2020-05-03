@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "Club Neurokids"
-header: "Servicios"
+header: "¿Cómo podemos ayudarte?"
 ---
 
 {% include header.html %}
-{% include servicios.html %}
+{% include programa.html %}
+{% include reflexion.html %}
 {% include cta.html %}

@@ -1,15 +1,33 @@
+I"�<!-- HEADER -->
+<div class="section banner-page">
+  <div class="content-wrap pos-relative">
+    <div class="d-flex justify-content-center bd-highlight mb-3">
+      <div class="title-page">Programas</div>
+    </div>
+  </div>
+</div>
 
 <!-- OUR EVENTS -->
 <div class="section bgi-cover-center" data-background="images/event-bg.png">
   <div class="content-wrap">
     <div class="container">
+
+      <div class="row">
+        <div class="col-sm-12 col-md-12">
+          <p class="supheading text-center">Our Events</p>
+          <h2 class="section-heading text-center mb-5">
+            Don't miss our event
+          </h2>
+        </div>
+      </div>
+
       <div class="row mt-4">
         
         <!-- Item 1 -->
         <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
           <div class="rs-news-1">
             <div class="media-box">
-              <img src='{{ "/assets/images/servicios.jpg" }}' alt="" class="img-fluid">
+              <img src="/assets/images/servicios.jpg" alt="" class="img-fluid" />
             </div>
             <div class="body-box">
               <div class="title">Sesiones online</div>
@@ -26,7 +44,7 @@
         <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
           <div class="rs-news-1">
             <div class="media-box">
-              <img src='{{ "/assets/images/reflexion.jpg" }}' alt="" class="img-fluid">
+              <img src="/assets/images/servicios.jpg" alt="" class="img-fluid" />
             </div>
             <div class="body-box">
               <div class="title">Sesiones a domicilio</div>
@@ -43,7 +61,7 @@
         <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
           <div class="rs-news-1">
             <div class="media-box">
-              <img src='{{ "/assets/images/torres.jpg" }}' alt="" class="img-fluid">
+              <img src="/assets/images/servicios.jpg" alt="" class="img-fluid" />
             </div>
             <div class="body-box">
               <div class="title">Asesoramiento online para cuidadores</div>
@@ -60,7 +78,7 @@
         <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
           <div class="rs-news-1">
             <div class="media-box">
-              <img src='{{ "/assets/images/triciclo.jpg" }}' alt="" class="img-fluid">
+              <img src="/assets/images/servicios.jpg" alt="" class="img-fluid" />
             </div>
             <div class="body-box">
               <div class="title">Asesoramiento online para personal docente</div>
@@ -77,18 +95,18 @@
         <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
           <div class="rs-news-1">
             <div class="media-box">
-              <img src='{{ "/assets/images/welcome.jpg" }}' alt="" class="img-fluid">
+              <img src="/assets/images/servicios.jpg" alt="" class="img-fluid" />
             </div>
             <div class="body-box">
               <div class="title">Asesoramiento online para establecer rutinas</div>
               <div class="meta-date">Coste: 35 euros, que incluye una sesión online y una sesión de seguimiento a la semana vía WhatsApp.</div>
               <p>Servicio de apoyo y orientación práctica para mejorar el desarrollo de rutinas adecuadas relacionadas con:
-                <br>Control de esfínteres.
-                <br>Hábitos de sueño
-                <br>Destrezas en habilidades sociales
+                <br />Control de esfínteres.
+                <br />Hábitos de sueño
+                <br />Destrezas en habilidades sociales
               </p>
               <div class="text-center">
-                <a href="#" class="btn btn-primary">RESERVAR CITA</a>
+                <a href="page-events-single.html" class="btn btn-primary">RESERVAR CITA</a>
               </div>
             </div>
           </div>
@@ -101,3 +119,24 @@
     </div>
   </div>
 </div>
+
+<!-- CTA -->
+<div class="section bg-tertiary">
+  <div class="content-wrap py-5">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-sm-12 col-md-12">
+          <div class="cta-1">
+              <div class="body-text mb-3">
+                <h2 class="my-1 text-secondary">¿Quieres probar una sesión gratuita?</h2>
+              </div>
+              <div class="body-action">
+                <a href="#" class="btn btn-primary mt-3">QUIERO MI SESIÓN GRATUITA</a>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+:ET
