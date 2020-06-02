@@ -437,7 +437,7 @@ button,
 input,
 select,
 textarea {
-  color: #999999;
+  color: #555555;
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
   font-size: 15px;
@@ -486,7 +486,7 @@ h3 {
   line-height: normal; }
 
 h4, .rs-team-1 .title {
-  font-size: 1.286em;
+  font-size: 1.7em;
   line-height: normal; }
 
 h5 {
@@ -509,6 +509,9 @@ ul {
     margin: 8px 0; }
 
 /* CUSTOM GLOBAL */
+.fa-4x {
+  color:#6dc42e;
+}
 .content-wrap {
   padding: 80px 0; }
 
@@ -832,7 +835,7 @@ blockquote.quote {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(34, 34, 34, 0.4); }
+    background-color: #6dc42e; }
   .banner-page .content-wrap {
     padding: 60px 0; }
   .banner-page .title-page {
@@ -2035,6 +2038,7 @@ BLOG
       -webkit-transition: all ease .25s;
       transition: all ease .25s; }
   .rs-news-1 .body-box {
+    min-height: 400px;
     position: relative;
     padding: 10px 20px; }
     .rs-news-1 .body-box .title a {

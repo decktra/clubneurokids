@@ -1,8 +1,10 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Club Neurokids"
 ---
 
-## You're ready to go!
-
-Start developing your Jekyll website.
+{% include banner.html %}
+{% include shortcut.html %}
+{% include intro.html %}
+{% include welcome.html %}
+{% include cta.html %}
