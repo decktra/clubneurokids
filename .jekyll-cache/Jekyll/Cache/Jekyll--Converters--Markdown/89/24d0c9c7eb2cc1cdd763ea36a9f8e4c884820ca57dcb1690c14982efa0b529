@@ -1,4 +1,4 @@
-I"�<!-- HEADER -->
+I"�<!-- HEADER -->
 <div class="section banner-page">
   <div class="content-wrap pos-relative">
     <div class="d-flex justify-content-center bd-highlight mb-3">
@@ -81,7 +81,7 @@
                 <h2 class="my-1 text-secondary">¿Quieres probar una sesión gratuita?</h2>
               </div>
               <div class="body-action">
-                <a href="#" class="btn btn-primary mt-3">QUIERO MI SESIÓN GRATUITA</a>
+                <a href="https://calendly.com/clubneurokids" class="btn btn-primary mt-3">QUIERO MI SESIÓN GRATUITA</a>
               </div>
           </div>
         </div>
