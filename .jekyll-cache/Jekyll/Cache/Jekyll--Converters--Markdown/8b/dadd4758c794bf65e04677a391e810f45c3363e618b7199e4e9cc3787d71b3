@@ -1,4 +1,4 @@
-I"�<!-- HEADER -->
+I"3<!-- HEADER -->
 <div class="section banner-page">
   <div class="content-wrap pos-relative">
     <div class="d-flex justify-content-center bd-highlight mb-3">
@@ -64,6 +64,25 @@
             Camino del logro
           </h2>
           <p>Se facilita a la familia una herramienta que les permitirá observar y expresar los avances en el proceso de aprendizaje de todos los involucrados, principalmente del niñx.</p>
+          <div class="spacer-30"></div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-4 text-center">
+          <i class="fas fa-graduation-cap fa-4x"></i>
+          <h2 class="section-heading mt-2">
+            Educación
+          </h2>
+          <p>Espacio de formación en temas relacionados a potenciar el desarrollo y
+            desempeño de nuestros niñxs en su proceso, brindando estrategias educativas
+            y creativa a padres, maestros y otros profesionales.</p>
+          <div class="spacer-30"></div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-4 text-center">
+          <i class="fas fa-road fa-4x"></i>
+          <h2 class="section-heading mt-2">
+            Puentes
+          </h2>
+          <p>Creamos puentes con otros profesionales en pro del proceso de desarrollo de
+            nuestros niños y su familia</p>
           <div class="spacer-30"></div>
         </div>
       </div>
