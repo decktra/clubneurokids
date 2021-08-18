@@ -1915,6 +1915,8 @@ TESTIMONIALS
     top: -20px; }
   .rs-feature-box-1 a {
     color: white; }
+  .rs-feature-box-1 h4 {
+    font-size: 35px; }
   .rs-feature-box-1.bg-primary {
     background-color: #FD4D40; }
     .rs-feature-box-1.bg-primary .fa {
@@ -2894,6 +2896,7 @@ Back To Top Section
     line-height: 1; }
   .wrap-caption .caption-supheading {
     font-family: "Pacifico", cursive;
+    font-size: 40px;
     color: #ff7300;
     margin-bottom: 0; }
   .wrap-caption .bg {
