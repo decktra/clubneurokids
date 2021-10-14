@@ -1,10 +1,9 @@
 ---
 layout: default
 title: "Club Neurokids"
-header: "Sobre Nosotras"
+header: "Sobre Mí"
 ---
 
 {% include header.html %}
 {% include maga.html %}
-{% include jessica.html %}
 {% include cta.html %}

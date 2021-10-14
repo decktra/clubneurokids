@@ -1,0 +1,87 @@
+I"5<!-- HEADER -->
+<div class="section banner-page">
+  <div class="content-wrap pos-relative">
+    <div class="d-flex justify-content-center bd-highlight mb-3">
+      <div class="title-page">Sobre Mí</div>
+    </div>
+  </div>
+</div>
+<!-- INTRO -->
+<div class="section">
+  <div class="content-wrap pb-0">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-7">
+          <p class="supheading">Sobre Nosotras</p>
+          <h2 class="section-heading mb-5">
+            María Gabriela Paiva
+          </h2>
+          <p>
+            ¡Hola!, soy María Gabriela Paiva Flores, me dicen Maga. Hace 6 años decidí
+          cambiar mi realidad, cogí mi maleta llena de sueños y ganas de seguir
+          creciendo. Crucé el océano desde Venezuela hasta llegar a este maravilloso
+          país y desde entonces vivo en Barcelona.
+          </p>
+          <p>
+            Soy una mujer con gran curiosidad por el entorno, me divierto en lo que hago y
+          disfruto de mi vida. Parte de mi tiempo creativo lo dedico en hacer monólogos
+          cómicos, a vivir momentos llenos de chispa en actividades de improvisación
+          teatral y habitar la dulzura e inocencia del clown. La otra parte de mi tiempo lo
+          he dedicado durante 16 años a acompañar a familias de niñxs con dificultades
+          sensoriales y de aprendizaje, y seguimos contando, también apoyo a niños con
+          autismo de alto funcionamiento a desarrollar sus habilidades sociales por
+          medio de la improvisación teatral, teatro terapéutico y neurociencia.
+          </p>
+          <p>
+            Estudié Terapia Ocupacional, me apasionó el cerebro desde una perspectiva
+          funcional y me certifiqué en integración sensorial y terapia de juego. Además,
+          quería aprender de mis propias emociones y por ello me formé en terapia
+          gestalt y teatro terapéutico. Cuando llegué a Barcelona quería seguir
+          mejorando la pasión que descubrí en Venezuela y continúe formándome en
+          teatro improvisado, técnica clown y stand up comedy.
+          </p>
+          <p>
+            Disfruto y me sale naturalmente conectar con las personas a través del humor,
+          el juego y el pensamiento creativo, me gusta aprender y compartir los
+          conocimientos adquiridos, me agrada ver familias e hijos, contentas y
+          progresando, por ello quiero decirte, que será un placer acompañarte,
+          aportando con pasión y profesionalismo, lo mejor de mí para sumar en tu
+          proceso.
+          </p>
+          <p>
+            Un abrazo grande,
+          </p>          
+          <p>
+            Maga.
+          </p>
+          <div class="spacer-content"></div>
+        </div>
+        <div class="col-sm-12 col-md-12 col-lg-5 d-flex align-items-center">
+          <img src="/assets/images/maga.jpg" alt="" class="img-fluid" />
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+<!-- CTA -->
+<div class="section bg-tertiary">
+  <div class="content-wrap py-5">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-sm-12 col-md-12">
+          <div class="cta-1">
+              <div class="body-text mb-3">
+                <h2 class="my-1 text-secondary">¿Quieres probar una sesión gratuita?</h2>
+              </div>
+              <div class="body-action">
+                <a href="https://calendly.com/clubneurokids" class="btn btn-primary mt-3">QUIERO MI SESIÓN GRATUITA</a>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+:ET
