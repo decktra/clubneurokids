@@ -1,0 +1,56 @@
+I"K<!-- HEADER -->
+<div class="section banner-page">
+  <div class="content-wrap pos-relative">
+    <div class="d-flex justify-content-center bd-highlight mb-3">
+      <div class="title-page">Blog</div>
+    </div>
+  </div>
+</div>
+
+<!-- OUR EVENTS -->
+<div class="section bgi-cover-center" data-background="images/event-bg.png">
+  <div class="content-wrap">
+    <div class="container">
+      <div class="row mt-4">
+        
+        <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+          <div class="rs-news-1">
+            <div class="media-box">
+              <img src="/assets/images/blog1.jpg" alt="" class="img-fluid" />
+            </div>
+            <div class="body-box">
+              <div class="title">¿Cuándo ir a un terapeuta ocupacional?</div>
+              <div class="meta-date">Maga Paiva</div>
+              <p>Todos tenemos un nivel de dificultad en algún aspecto de la vida, pero cuando ese nivel nos limita en nuestro desempeño y participación social es importante acudir a un terapeuta ocupacional. Imagina a un niño que comienza ser identificado por sus comportamientos inadecuados para relacionarse con otros: grita, empuja en determinados momentos, rechaza texturas de ropa...</p>
+              <div class="text-center">
+                <a href="/2022/01/21/cuando-ir-a-un-terapeuta-ocupacional.html" class="btn btn-primary">Leer más</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- CTA -->
+<div class="section bg-tertiary">
+  <div class="content-wrap py-5">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-sm-12 col-md-12">
+          <div class="cta-1">
+              <div class="body-text mb-3">
+                <h2 class="my-1 text-secondary">¿Quieres probar una sesión gratuita?</h2>
+              </div>
+              <div class="body-action">
+                <a href="https://calendly.com/clubneurokids" class="btn btn-primary mt-3">QUIERO MI SESIÓN GRATUITA</a>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+:ET

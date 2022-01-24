@@ -1,0 +1,72 @@
+I"�<!-- HEADER -->
+<div class="section banner-page">
+  <div class="content-wrap pos-relative">
+    <div class="d-flex justify-content-center bd-highlight mb-3">
+      <div class="title-page">Blog</div>
+    </div>
+  </div>
+</div>
+<!-- INTRO -->
+<div class="section">
+  <div class="content-wrap pb-0">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-7">
+          <p class="supheading">María Gabriela Paiva</p>
+          <h2 class="section-heading mb-5">
+            ¿Cuándo ir a un terapeuta ocupacional?
+          </h2>
+          <p>Todos tenemos un nivel de dificultad en algún aspecto de la vida, pero cuando ese nivel nos limita en nuestro desempeño y participación social es importante acudir a un terapeuta ocupacional.</p> 
+          <p>Imagina a un niño que comienza ser identificado por sus comportamientos inadecuados para relacionarse con otros: grita, empuja en determinados momentos, rechaza texturas de ropa, tiene una dieta limitada, no atiende, se distrae constantemente, es torpe al nivel motor; sentimos como padres, profesionales y/o docentes, la necesidad de apoyarlo y alejarlo de esas “etiquetas” que no lo definen buscando un tratamiento para mejorar esas conductas.</p>
+          <p><b>Seguramente te han mencionado que lleves al niño a terapia ocupacional y que reciba integración sensorial, porque puede ser que su dificultad esté relacionada con algo sensorial que afecte su calidad de vida.</b></p>
+          <p><b>¿Sabes que es la integración sensorial?</b> En la década de los 60 gracias a la Dra Jean Ayres (Terapeuta Ocupacional, Doctora en Neurociencias y Psicologa), realizo diferentes trabajos de investigación relacionadas al procesamiento sensorial, y ella concluye que es la organización de las sensaciones en el Sistema Nervioso Central y su utilización en la vida diaria.</p>
+          <p>Este proceso sucede gracias a que nuestro gusto, olfato, vista, audición y los sentidos principales en integración sensorial como sistema vestibular(relacionado con el movimiento), táctil y propioceptivo(posición de nuestro cuerpo en el espacio), reciben toda la información acerca de nuestro cuerpo y del entorno que nos rodea, la envían al cerebro que es el encargado de organizar todas estas sensaciones, localizarlas, clasificarlas, ordenarlas y generar una respuesta adecuada al estímulo recibido. </p>
+          <p>Ejemplo: si me tropecé y voy a caer, mi cuerpo saca las manos para protegerse, si voy a alcanzar un objeto encima de estante, mi cuerpo se organiza para trepar hasta allí, o para colocar una silla y subirme de una manera segura.</p>
+          <p>Cuando todo esto funciona de forma adecuada, el cerebro forma percepciones, comportamientos, aprendizajes y genera respuestas adecuadas o adaptativas al estímulo. </p>
+          <p><b>¿Qué pasa cuando este proceso no se da de manera correcta?</b></p>
+          <p>Estamos en presencia de una dificultad para utilizar dicha información en nuestra vida diaria, porque nuestro cerebro no es capaz de procesar el estímulo que le llega,</p>
+          <p>A continuación, te explico que en integración sensorial se identifican tres tipos de problemas de procesamiento sensorial: </p>
+          <p><b>Problemas de registro</b> o detección de un estímulo.</p>
+          <p><b>Problemas de modulación sensorial</b>, que afecta al nivel de alerta y a la conducta, confort general, relación con los alimentos, regulación emocional, seguridad gravitacional y novedad de un estímulo. </p>
+          <p><b>Problemas de discriminación sensorial</b>, que afecta al control motor, planificación motora, anticipación al movimiento, percepción corporal, calibración de la fuerza, organización espacio-tiempo, retroalimentación con el ambiente, notar las pequeñas diferencias de las sensaciones, destrezas manuales, coordinación ojo-mano, entre otras.</p>
+          <p>Este tipo de alteraciones produce problemas en el desempeño ocupacional del niño, en el colegio, en casa y en su entorno, pudiendo ver comportamientos tales como:</p>
+          <p>Dificultad para vestirse abrocharse los zapatos, tomar los cubiertos, subirse el cierre, entre otros.</p>
+          <p>Está constantemente empujando a otros, corriendo, balanceándose o moviéndose en la silla.</p>
+          <p>Le molesta o desagrada en forma desproporcionada o excesiva que lo toquen, que lo besen, que le peinen, que le laven el pelo, lo sequen con una determinada toalla, que lo abracen, las etiquetas, cierto tipo de ropa.</p>
+          <p>No le gusta que lo alcen, salir a jugar, relacionarse con otros.</p>
+          <p>Se le derrama la pintura, no es muy habilidoso con sus manos, con las tareas manuales, con las actividades en la escuela, con el lápiz, tijeras, con el pegamento.</p>
+          <p>Le desagrada ensuciarse, comer, las texturas de los alimentos, olores.</p>
+          <p>No percibe olores, no responde al dolor como la mayoría.</p>
+          <p>Grita, no sabe expresar sus emociones, parece o muy reactivo o muy muy tranquilo.</p>
+          <p>Si te preocupa alguna u otros comportamientos, recuerda consultar a un experto y ten presente que <b>la Integración sensorial como modelo de intervención en estos casos a probado ser efectiva en el tratamiento de niños, jóvenes y adultos a mejorar su participación social y calidad de vida.</b></p>
+          <div class="spacer-content"></div>
+        </div>
+        <div class="col-sm-12 col-md-12 col-lg-5">
+          <img src="/assets/images/blog1.jpg" alt="" class="img-fluid" />
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+<!-- CTA -->
+<div class="section bg-tertiary">
+  <div class="content-wrap py-5">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-sm-12 col-md-12">
+          <div class="cta-1">
+              <div class="body-text mb-3">
+                <h2 class="my-1 text-secondary">¿Quieres probar una sesión gratuita?</h2>
+              </div>
+              <div class="body-action">
+                <a href="https://calendly.com/clubneurokids" class="btn btn-primary mt-3">QUIERO MI SESIÓN GRATUITA</a>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+:ET

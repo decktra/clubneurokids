@@ -1,0 +1,27 @@
+
+<!-- OUR EVENTS -->
+<div class="section bgi-cover-center" data-background="images/event-bg.png">
+  <div class="content-wrap">
+    <div class="container">
+      <div class="row mt-4">
+        {% for post in site.posts %}
+        <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+          <div class="rs-news-1">
+            <div class="media-box">
+              <img src='{{ post.image }}' alt="" class="img-fluid">
+            </div>
+            <div class="body-box">
+              <div class="title">{{ post.title }}</div>
+              <div class="meta-date">{{ post.author }}</div>
+              <p>{{ post.pretext }}</p>
+              <div class="text-center">
+                <a href="{{ post.url }}" class="btn btn-primary">Leer más</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
