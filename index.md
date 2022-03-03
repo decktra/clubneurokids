@@ -7,4 +7,5 @@ title: "Club Neurokids"
 {% include shortcut.html %}
 {% include intro.html %}
 {% include welcome.html %}
+{% include course.html %}
 {% include cta.html %}

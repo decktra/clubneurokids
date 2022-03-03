@@ -1,4 +1,4 @@
-I"�<!-- BANNER -->
+I"n<!-- BANNER -->
 <div id="oc-fullslider" class="banner">
   <div class="owl-carousel owl-theme full-screen">
     <div class="item">
@@ -126,6 +126,30 @@
           <p>Si estás aquí, es porque sabes que necesitas ampliar tu repertorio de ideas y estrategias que ayuden en la evolución de tu hijx, volver a sentirte confiadx en tu potencial como padre y como madre, teniendo la seguridad de que vas por buen camino.  Sí puedes. Juntxs podemos crearlo.</p>
           <p>¿Cuánto más vas a esperar a invertir en algo tan importante para ti y tu familia?</p>
           <div class="spacer-30"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- WELCOME TO KIDS -->
+<div class="section">
+  <div class="content-wrap">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-6">
+          <h2 class="section-heading">
+            Curso Online
+          </h2>
+          <p>El primer curso de la certificación en la utilización de las
+            Observaciones Estructuradas Integración Sensorial- Motor (SOSI-
+            M) y las Observaciones Exhaustivas de la Propiocepción (COP-R)
+            abarca la administración estandarizada de ambos instrumentos de
+            medición.</p>
+            <a href="/assets/docs/curso_club_neurokids.pdf" class="btn btn-primary">CONOCER MÁS</a>
+          <div class="spacer-30"></div>
+        </div>
+        <div class="col-sm-12 col-md-12 col-lg-6">
+          <img src="/assets/images/course.png" alt="" class="img-fluid img-border mb-3" />
         </div>
       </div>
     </div>
