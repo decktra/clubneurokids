@@ -1,4 +1,4 @@
-I"�'<!-- HEADER -->
+I"\5<!-- HEADER -->
 <div class="section banner-page">
   <div class="content-wrap pos-relative">
     <div class="d-flex justify-content-center bd-highlight mb-3">
@@ -120,6 +120,73 @@
           </div>
         </div>
 
+         <!-- Item 7 -->
+         <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+          <div class="rs-news-1">
+            <div class="media-box">
+              <img src="/assets/images/alimentacion.jpg" alt="" class="img-fluid" />
+            </div>
+            <div class="body-box">
+              <div class="title">PROGRAMA DE ABORDAJE EN DIFICULTADES DE ALIMENTACIÓN</div>
+              <div class="meta-date" style="color:#28a745;">Coste: Precio a precisar.</div>
+              <p>Diseñado para evaluar y abordar los factores involucrados en las dificultades de alimentación del niño, a través del programa SOS APPROACH TO FEEDING®.</p>
+              <div class="text-center">
+                <a href="https://calendly.com/clubneurokids" class="btn btn-primary">RESERVAR CITA</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Item 8 -->
+        <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+          <div class="rs-news-1">
+            <div class="media-box">
+              <img src="/assets/images/ansiedad_infantil.png" alt="" class="img-fluid" />
+            </div>
+            <div class="body-box">
+              <div class="title">PROGRAMA DE MANEJO DE ANSIEDAD INFANTIL</div>
+              <div class="meta-date" style="color:#28a745;">Coste: Precio a precisar.</div>
+              <p>Diseñado para potenciar la confianza en sí mismo para manejar los momentos de ansiedad, gracias a actividades específicas teatrales y terapia de juego.</p>
+              <div class="text-center">
+                <a href="https://calendly.com/clubneurokids" class="btn btn-primary">RESERVAR CITA</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Item 9 -->
+        <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+          <div class="rs-news-1">
+            <div class="media-box">
+              <img src="/assets/images/grafomotricidad.jpg" alt="" class="img-fluid" />
+            </div>
+            <div class="body-box">
+              <div class="title">PROGRAMA DE GRAFOMOTRICIDAD Y MEJORAR LA ESCRITURA</div>
+              <div class="meta-date" style="color:#28a745;">Coste: Precio a precisar.</div>
+              <p>Diseñado para mejorar las habilidades de pre-escritura, motricidad fina y grafomotricidad con el MÉTODO OLSEN ESCRITURA SIN LAGRIMAS</p>
+              <div class="text-center">
+                <a href="https://calendly.com/clubneurokids" class="btn btn-primary">RESERVAR CITA</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Item 10 -->
+        <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+          <div class="rs-news-1">
+            <div class="media-box">
+              <img src="/assets/images/habilidades.png" alt="" class="img-fluid" />
+            </div>
+            <div class="body-box">
+              <div class="title">PROGRAMA DE HABILIDADES SOCIALES Y AUTOESTIMA</div>
+              <div class="meta-date" style="color:#28a745;">Coste: Precio a precisar.</div>
+              <p>Diseñado para potenciar en los niños la expresión de las emociones, necesidades y opiniones con asertividad y empatía, por medio de actividades y juegos de IMPROVISACIÓN TEATRAL.</p>
+              <div class="text-center">
+                <a href="https://calendly.com/clubneurokids" class="btn btn-primary">RESERVAR CITA</a>
+              </div>
+            </div>
+          </div>
+        </div>
         <!-- Item 2 -->
         <!-- <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
           <div class="rs-news-1">
