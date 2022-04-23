@@ -1,4 +1,4 @@
-I"n<!-- BANNER -->
+I"c<!-- BANNER -->
 <div id="oc-fullslider" class="banner">
   <div class="owl-carousel owl-theme full-screen">
     <div class="item">
@@ -7,7 +7,7 @@
         <div class="container d-flex align-items-center">
             <div class="wrap-caption">
               <h4 class="caption-supheading">Club NeuroKids</h4>
-                <h1 class="caption-heading">Si se Planea, Sucede</h1>
+                <h1 class="caption-heading">Un espacio para disfrutar en familia</h1>
                 <a href="programa.html" class="btn btn-secondary mt-3">DESCUBRENOS</a>
             </div>  
           </div>
@@ -29,7 +29,7 @@
           <div class="container d-flex align-items-center">
             <div class="wrap-caption">
                 <h4 class="caption-supheading">Club NeuroKids</h4>
-                <h1 class="caption-heading">Un espacio para disfrutar en familia</h1>
+                <h1 class="caption-heading">Si se planea, sucede</h1>
                 <a href="programa.html" class="btn btn-secondary mt-3">DESCUBRENOS</a>
             </div>  
           </div>
@@ -48,10 +48,10 @@
             <div class="col-sm-12 col-md-4 col-lg-4">
               <!-- BOX 1 -->
               <div class="rs-feature-box-1 bg-primary">
-                <i class="fa fa-clock-o"></i>
+                <i class="fa"></i>
                 <div class="body">
-                  <h4>Club NeuroKids</h4>
-                  <p>¿Eres madre o padre de un niñx con autismo, déficit de atención, dificultades de desarrollo u otro diagnóstico?</p>
+                  <!-- <h4>Club NeuroKids</h4> -->
+                  <h4>¿Eres madre o padre de un niño con déficit de atención, autismo, dificultades en el desarrollo u otro diagnóstico?</h4>
                   <div class="spacer-10"></div>
                   <a href="programa.html" class="btn">CONOCER MÁS</a>
                 </div>
@@ -60,10 +60,10 @@
             <div class="col-sm-12 col-md-4 col-lg-4">
               <!-- BOX 2 -->
               <div class="rs-feature-box-1 bg-secondary">
-                <i class="fa fa-home"></i>
+                <i class="fa"></i>
                 <div class="body">
-                  <h4>Club NeuroKids</h4>
-                  <p>¿Están desorganizadxs y no sabes qué hacer con ellxs?</p>
+                  <!-- <h4>Club NeuroKids</h4> -->
+                  <h4>¿Deseas potenciar su desarrollo y aprendizaje?</h4>
                   <div class="spacer-10"></div>
                   <a href="programa.html" class="btn">CONOCER MÁS</a>
                 </div>
@@ -72,10 +72,10 @@
             <div class="col-sm-12 col-md-4 col-lg-4">
               <!-- BOX 3 -->
               <div class="rs-feature-box-1 bg-tertiary">
-                <i class="fa fa-trophy"></i>
+                <i class="fa"></i>
                 <div class="body">
-                  <h4>Club NeuroKids</h4>
-                  <p>¿Te sientes con pocas estrategias para gestionar las dificultades en el día a día con tus hijxs?</p>
+                  <!-- <h4>Club NeuroKids</h4> -->
+                  <h4>¿Quieres más estrategias, más herramientas para gestionar el día a día con tus hijos?</h4>
                   <div class="spacer-10"></div>
                   <a href="programa.html" class="btn">CONOCER MÁS</a>
                 </div>
