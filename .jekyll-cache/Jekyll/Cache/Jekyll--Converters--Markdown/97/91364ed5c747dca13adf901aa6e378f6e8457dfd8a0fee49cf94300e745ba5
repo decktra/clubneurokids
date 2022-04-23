@@ -1,4 +1,4 @@
-I"\5<!-- HEADER -->
+I"�S<!-- HEADER -->
 <div class="section banner-page">
   <div class="content-wrap pos-relative">
     <div class="d-flex justify-content-center bd-highlight mb-3">
@@ -183,6 +183,177 @@
               <p>Diseñado para potenciar en los niños la expresión de las emociones, necesidades y opiniones con asertividad y empatía, por medio de actividades y juegos de IMPROVISACIÓN TEATRAL.</p>
               <div class="text-center">
                 <a href="https://calendly.com/clubneurokids" class="btn btn-primary">RESERVAR CITA</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- HEADER -->
+<div class="section banner-page">
+  <div class="content-wrap pos-relative">
+    <div class="d-flex justify-content-center bd-highlight mb-3">
+      <div class="title-page">Talleres</div>
+    </div>
+  </div>
+</div>
+
+<div class="section bgi-cover-center" data-background="images/event-bg.png">
+  <div class="content-wrap">
+    <div class="container">
+      <div class="row mt-4">
+
+        <!-- Item 1 -->
+        <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+          <div class="rs-news-1">
+            <div class="media-box">
+              <img src="/assets/images/talleres/tallersensorial.png" alt="" class="img-fluid" />
+            </div>
+            <div class="body-box">
+              <div class="title">DESCUBRE EL RETRATO SENSORIAL DE TU HIJO</div>
+              <div class="meta-date" style="color:#28a745;">Coste: 20 euros.</div>
+              <p>
+                TALLER ONLINE EN DIRECTO<br />
+                <br />
+                Vía zoom 45min<br />
+                Si eres de mañanas disponibles te espero<br />
+                el 2 Junio a las 10 H<br />
+                <br />
+                Si eres de tardes disponibles te espero<br />
+                el 3 Junio a las 17 H<br />
+                <br />
+                Este workshop tiene como finalidad mostrar al participante algunos problemas en el proceso de escritura y algunas estrategias que pueden ayudar al proceso.<br />
+                Hablaremos de:<br />
+                - Problemas a la hora de escribir<br />
+                - Factores que facilitan el proceso<br />
+                - 5 estrategias que mejoran el proceso
+                              </p>
+              <div class="text-center">
+                <a href="https://forms.gle/ikrhKzeGfiUhqjFe9" class="btn btn-primary">Formulario de inscripción</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Item 2 -->
+        <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+          <div class="rs-news-1">
+            <div class="media-box">
+              <img src="/assets/images/talleres/tallercomer.png" alt="" class="img-fluid" />
+            </div>
+            <div class="body-box">
+              <div class="title">5 CLAVES PARA MEJORAR LA EXPERIENCIA DE COMER</div>
+              <div class="meta-date" style="color:#28a745;">Coste: 20 euros.</div>
+              <p>
+                TALLER ONLINE EN DIRECTO<br />
+                Vía zoom 45min<br />
+                <br />
+                te espero 6 Mayo a las 10 H<br />
+                <br />
+                Este workshop tiene como finalidad de ayudar al participante a identificar problemas que afectan el proceso de alimentación, y descubrir estrategias que pueden ayudar a que tu hij@ mejore la interacción con la comida.<br />
+                Hablaremos de:<br />
+                - Factores que potencian el proceso de alimentación<br />
+                - Factores que interfieren en la alimentación<br />
+                - 5 estrategias que suman al proceso de alimentación
+              </p>
+              <div class="text-center">
+                <a href="https://forms.gle/ZuAj2Apivnyq6mKs5" class="btn btn-primary">Formulario de inscripción</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Item 3 -->
+        <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+          <div class="rs-news-1">
+            <div class="media-box">
+              <img src="/assets/images/talleres/tallerregulacion.png" alt="" class="img-fluid" />
+            </div>
+            <div class="body-box">
+              <div class="title">5 CLAVES PARA MEJORAR LA ATENCIÓN Y REGULACIÓN DE TU HIJO</div>
+              <div class="meta-date" style="color:#28a745;">Coste: 20 euros.</div>
+              <p>
+                TALLER ONLINE EN DIRECTO<br />
+                Vía zoom 45min<br />
+                Si eres de mañanas disponibles te espero<br />
+                El 19 Mayo a las 10 H<br />
+                <br />
+                Si eres de tardes disponibles te espero<br />
+                el 20 Mayo a las 17 H<br />
+                <br />
+                Este workshop tiene como finalidad mostrar al participante estrategias de juego sensorial para mejorar la atención y regulación del niño o niña.<br />
+                Hablaremos de:<br />
+                - Factores que potencian la atención<br />
+                - Factores que interfieren en el proceso de regulación<br />
+                - Estrategias de juego sensorial
+              </p>
+              <div class="text-center">
+                <a href="https://forms.gle/FdYCzKPpt1NZiDeG6" class="btn btn-primary">Formulario de inscripción</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Item 4 -->
+        <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+          <div class="rs-news-1">
+            <div class="media-box">
+              <img src="/assets/images/talleres/tallerescritura.png" alt="" class="img-fluid" />
+            </div>
+            <div class="body-box">
+              <div class="title">5 CLAVES PARA MEJORAR LA EXPERIENCIA DE ESCRITURA</div>
+              <div class="meta-date" style="color:#28a745;">Coste: 20 euros.</div>
+              <p>
+                TALLER ONLINE EN DIRECTO<br />
+                Vía zoom 45min<br />
+                Si eres de mañanas disponibles te espero<br />
+                el 2 Junio a las 10 H<br />
+                <br />
+                Si eres de tardes disponibles te espero<br />
+                el 3 Junio a las 17 H<br />
+                <br />
+                Este workshop tiene como finalidad mostrar al participante algunos problemas en el proceso de escritura y algunas estrategias que pueden ayudar al proceso.<br />
+                Hablaremos de:<br />
+                - Problemas a la hora de escribir<br />
+                - Factores que facilitan el proceso<br />
+                - 5 estrategias que mejoran el proceso
+              </p>
+              <div class="text-center">
+                <a href="https://forms.gle/Rtx9C4K3Xqs2BoeC8" class="btn btn-primary">Formulario de inscripción</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Item 5 -->
+        <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+          <div class="rs-news-1">
+            <div class="media-box">
+              <img src="/assets/images/talleres/talleransiedad.png" alt="" class="img-fluid" />
+            </div>
+            <div class="body-box">
+              <div class="title">5 CLAVES PARA MEJORAR LA ANSIEDAD EN NIÑOS</div>
+              <div class="meta-date" style="color:#28a745;">Coste: 20 euros.</div>
+              <p>
+                TALLER ONLINE EN DIRECTO<br />
+                <br />
+                Vía zoom 45min<br />
+                Si eres de mañanas disponibles te espero<br />
+                el 16 Junio a las 10 H<br />
+                <br />
+                Si eres de tardes disponibles te espero<br />
+                el 17 Junio a las 17 H<br />
+                <br />
+                Este workshop tiene como finalidad de ayudar al participante a identificar si el niño o niña está atravesando una situación de ansiedad y cómo podemos ayudarlos a mejorar en ese proceso.<br />
+                Hablaremos de:<br />
+                - Factores que potencian el proceso de control de ansiedad en niños<br />
+                - Juegos y dinámicas que facilitan el proceso
+              </p>
+              <div class="text-center">
+                <a href="https://forms.gle/YuatY4reGBUFB2nS7" class="btn btn-primary">Formulario de inscripción</a>
               </div>
             </div>
           </div>
