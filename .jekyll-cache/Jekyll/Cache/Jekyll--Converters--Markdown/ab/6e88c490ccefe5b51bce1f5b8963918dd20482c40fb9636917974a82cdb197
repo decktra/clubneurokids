@@ -25,13 +25,13 @@
                     <div class="card-header" id="headingOne">
                         <h3 class="title">
                           <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                          Estoy acostumbradx a servicios de terapia presencial ¿Las sesiones online funcionan?
+                          Estoy acostumbrado a servicios de terapia presencial ¿Las sesiones online funcionan?
                           </button>
                         </h3>
                     </div>
                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                         <div class="card-body">
-                          Sí, funcionan. Son terapias con evidencia científica, con más de 10 años de aplicación. Están centradas en el funcionamiento de la familia y les permite a sus miembros hacer un entrenamiento para que se empoderen y ayuden en el proceso de aprendizaje de sus hijxs.
+                          Sí, funcionan. Son terapias con evidencia científica, con más de 10 años de aplicación. Están centradas en el funcionamiento de la familia y les permite a sus miembros hacer un entrenamiento para que se empoderen y ayuden en el proceso de aprendizaje de sus hijos.
                         </div>
                     </div>
                   </div>
@@ -64,7 +64,7 @@ También ofrecemos servicio de atención a domicilio
                     </div>
                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                         <div class="card-body">
-                          Sí, todas las familias que quieran empoderarse, ganar mayores estrategias para establecer rutinas, potenciar aprendizajes y gestionar mejor las emociones de sus hijxs, pueden participar del programa.
+                          Sí, todas las familias que quieran empoderarse, ganar mayores estrategias para establecer rutinas, potenciar aprendizajes y gestionar mejor las emociones de sus hijos, pueden participar del programa.
                         </div>
                     </div>
                   </div>
@@ -73,7 +73,7 @@ También ofrecemos servicio de atención a domicilio
                     <div class="card-header" id="headingFour">
                         <h3 class="title">
                           <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                          Mi hijx no quiere comer ¿Este programa puede beneficiarnos?
+                          Mi hijo no quiere comer ¿Este programa puede beneficiarnos?
                           </button>
                         </h3>
                     </div>
@@ -88,7 +88,7 @@ También ofrecemos servicio de atención a domicilio
                     <div class="card-header" id="heading5">
                         <h3 class="title">
                           <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapseFour">
-                          Mi hijx le cuesta dormir ¿Me sirve este programa?
+                          Mi hijo le cuesta dormir ¿Me sirve este programa?
                           </button>
                         </h3>
                     </div>
@@ -103,7 +103,7 @@ También ofrecemos servicio de atención a domicilio
                     <div class="card-header" id="heading6">
                         <h3 class="title">
                           <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapseFour">
-                          Mi hijx golpea ¿Este programa me ayudará?
+                          Mi hijo golpea ¿Este programa me ayudará?
                           </button>
                         </h3>
                     </div>
@@ -118,7 +118,7 @@ También ofrecemos servicio de atención a domicilio
                     <div class="card-header" id="heading7">
                         <h3 class="title">
                           <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapseFour">
-                          Mi hijx le cuesta ir al baño ¿Este programa me ayudará?
+                          Mi hijo le cuesta ir al baño ¿Este programa me ayudará?
                           </button>
                         </h3>
                     </div>
@@ -133,7 +133,7 @@ También ofrecemos servicio de atención a domicilio
                     <div class="card-header" id="heading8">
                         <h3 class="title">
                           <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapseFour">
-                          Mi hijx le cuesta jugar con otros niños ¿Este programa me ayudará?
+                          Mi hijo le cuesta jugar con otros niños ¿Este programa me ayudará?
                           </button>
                         </h3>
                     </div>
